@@ -1,0 +1,13 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,Canal Latina
+"https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8"
+
+
+#EXTINF:-1 ,Canal America
+"https://platform-static.cdn.mdstrm.com/player/-/assets/screen/screen.swf?url=https%3A%2F%2Fmdstrm.com%2Flive-stream-playlist%2F6099b04d9418ac082441dd74.m3u8"
+
+
+#EXTINF:-1 ,Canal ATV
+"https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/playlist.m3u8"
